@@ -1,0 +1,50 @@
+/* ===== Base page styles ===== */
+body {
+  background-color: #e3eedf;
+  color: #253530;
+  font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.title, .tagline {
+  background-color: #04533e;
+  color: #f5f7f2;
+  text-align: center;
+}
+
+.title {
+  font-family: Georgia, 'Times New Roman', serif;
+  margin: 0 0 0px 0;
+  font-size: 50px;
+}
+
+.tagline {
+  margin: 0;
+  font-size: 15px;
+  padding-bottom: 10px;
+}
+
+img  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  padding-top: 0px;
+}
+
+.intro, .todo, .plan {
+  text-align: left;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  color: #5b6b64;
+  font-size: 12px;
+  border-top: 1px solid #d5e0d6;
+  margin-top: 20px;
+}
